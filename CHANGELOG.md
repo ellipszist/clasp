@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.2.0](https://github.com/google/clasp/compare/v3.1.3...v3.2.0) (2025-12-08)
+
+
+### Features
+
+* Support custom port for no-localhost login ([#1104](https://github.com/google/clasp/issues/1104)) ([833eb7c](https://github.com/google/clasp/commit/833eb7cc5d7fecfca5fc8e2a7c9cdb837f56d38f))
+
 ## [3.1.3](https://github.com/google/clasp/compare/v3.1.2...v3.1.3) (2025-11-19)
 
 
